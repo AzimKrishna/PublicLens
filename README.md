@@ -1,6 +1,6 @@
 # PublicLens: Missing Persons and Sightings Reporting Website :mag:
 
-![PublicLens Logo](img/stock/fav.ico)
+<img src="img/fav.ico" alt="PublicLens Logo" width="150" height="150">
 
 ## Overview :rocket:
 
