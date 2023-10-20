@@ -29,7 +29,7 @@ Developed using HTML, CSS, JavaScript, PHP, and MySQL, PublicLens offers a user-
 ## Installation Guide :wrench:
 
 1. Clone the repository: `git clone https://github.com/AzimKrishna/PublicLens.git`
-2. Import the database: Use `missing_person.sql` to create tables and set up your database.
+2. Import the database: Create database with the name missing_person and use `missing_person.sql` to create tables.
 3. Email Setup (Optional): Configure mailing using Gmail SMTP or your preferred method for mailing functions to work.
 
 ## How to Use :book:
