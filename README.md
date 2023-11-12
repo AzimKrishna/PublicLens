@@ -26,6 +26,44 @@ Developed using HTML, CSS, JavaScript, PHP, and MySQL, PublicLens offers a user-
 - **Announcements**: Keep users informed with important updates and developments.
 - **Hidden Admin Panel**: Access the admin panel by appending `'admin/?pwd=12345'` to the URL, replacing `12345` with the current admin password. Incorrect attempts will redirect to the home page.
 
+## Screenshots 📸
+
+![Website Homepage](screenshots/Screenshot_10.png)
+*Screenshot of the home page of the website.*
+
+
+![Missing Person Profile](screenshots/Screenshot_1.png)
+*Screenshot of the missing person's detail when clicked on the picture to view more.*
+
+
+![Missing Person Reporting PAGE](screenshots/Screenshot_7.png)
+*Screenshot of the page for reporting missing person.*
+
+
+![Report Sighting of Person](screenshots/Screenshot_3.png)
+*Screenshot of the page to report a sighting of any missing person.*
+
+
+![Found Person Section](screenshots/Screenshot_2.png)
+*Screenshot of the confirmed found people section.*
+
+
+![Admin Dashboard](screenshots/Screenshot_4.png)
+*Screenshot of the admin panel dashboard.*
+
+
+![Admin Panel News section](screenshots/Screenshot_5.png)
+*Screenshot of the admin panel from where you can post news.*
+
+
+![Admin Panel Enquiry Section](screenshots/Screenshot_6.png)
+*Screenshot of the admin panel from where you can view the received enquires.*
+
+
+![Admin Panel Missing Person Request section](screenshots/Screenshot_8.png)
+*Screenshot of the admin panel section from where you can approve or reject the new missing person post request.*
+
+
 ## Installation Guide :wrench:
 
 1. Clone the repository: `git clone https://github.com/AzimKrishna/PublicLens.git`
@@ -48,6 +86,11 @@ Developed using HTML, CSS, JavaScript, PHP, and MySQL, PublicLens offers a user-
 2. **Report Management**: Review, approve, and manage missing person and sighting reports.
 3. **Confirmed Found Persons**: Validate and add sightings to the confirmed found persons list.
 4. **Announcements**: Keep users engaged and informed through the announcements section.
+
+## Notes ⚠️
+
+- The system is optimized only for viewport resolution 1920x1080 and is not responsive. (Will be fixed in the future updates)
+- Kindly zoom out the website to the above mentioned resolution for better experience.
 
 ## Contributing 🤝
 
